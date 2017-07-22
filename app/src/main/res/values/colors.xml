@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#ffeb3b</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#e65100</color>
+
+    <!-- Accent color of the app -->
+    <color name="colorAccent">#ffeb3b</color>
+
+    <!-- Color for a bulletpoint -->
+    <color name="bulletPoint">#ffb300</color>
+
+    <!-- Text color for the section -->
+    <color name="textColorSection">#B4BAC0</color>
+
+    <!-- Text color for the title -->
+    <color name="textColorTitle">#2B3D4D</color>
+
+</resources>
